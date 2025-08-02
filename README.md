@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **1ronich/1ronich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
